@@ -8,4 +8,4 @@
 - 💬 Ask me about life and we'll learn together
 - 📫 How to find me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flag&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-nascimento-da-conceicao)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm exaggeratedly from Vasco. An aficionado of the Portuguese team, Vasco da Gama.
+- ⚡ Fun fact: I'm an exaggerated Vasco fan. An aficionado of the Portuguese team, Vasco da Gama.
